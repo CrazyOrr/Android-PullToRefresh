@@ -1,6 +1,7 @@
 #Android generated
 bin
 gen
+/build
 
 #Eclipse
 .project
@@ -18,6 +19,9 @@ out
 target
 release.properties
 pom.xml.*
+
+#Gradle
+.gradle
 
 #Ant
 build.xml
